@@ -1,0 +1,37 @@
+CSS Dimensions:
+    - To provide dimensions for an html elements
+        * Margin: Outer Spacing
+            -Provide margin around the element.
+            keyword - margin - 4 sided
+                    - top - margin-top 
+                    - bottom - margin-bottom 
+                    - left - margin-left 
+                    - right - margin-right
+                Short-hand:
+                    - margin: top right bottom left
+                    
+        * Padding: Inner Spacing
+            keyword - padding - 4 sided
+                    - top - padding-top 
+                    - bottom - padding-bottom 
+                    - left - padding-left 
+                    - right - padding-right
+                Short-hand:
+                    - padding: top right bottom left
+                    
+        * Border: Provides border to an html element
+            keyword - border-width (thickness)
+                    - border-color (Color of the border)
+                    - border-style (Style of the border)
+
+        * Outline: Line outside the border
+              keyword - outline-width (thickness)
+                    - outline-color (Color of the border)
+                    - outline-style (Style of the border)
+
+        * Height:
+              keyword - height 
+        * Width:
+            keyword - width 
+
+    Shadow: 

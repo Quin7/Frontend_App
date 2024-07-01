@@ -1,0 +1,34 @@
+CSS General Selectors:
+    - Select the HTML elements for styling.
+    - 5 Types
+        * ID Selector - #
+            - Selects the HTML Element with its id value.
+            Ex:
+            HTML: <h1 id='value1'>Element</h1>
+            CSS: #value1{ Style Rule }
+
+        * Class Selector - .
+            - Selects the element by using its class value.
+            Ex:
+            HTML: <h1 class='value1'>Element</h1>
+            CSS: .value1{ Style Rule }
+
+        * Element Type Selector - Element name
+            - Selects the element by its name.
+             Ex:
+            HTML: <h1>Element</h1>
+            CSS: h1{ Style Rule }
+
+        * Group Selector - ,
+            - Selects 2 or more elements for common styling.
+            Ex:
+            h1,h2,h3 {
+                color:red;
+            }
+
+        * Universal Selector - *
+            - Selects the entire Document
+            Ex:
+            * {
+                background-color: green;
+            }

@@ -1,0 +1,9 @@
+.dev {
+    margin: 100px auto;
+    border-left: 3px inset darkred;
+    padding: 30px 50px 30px 50px;
+    /* outline: 3px dashed orangered; */
+    height: fit-content;
+    width: 50%;
+    box-shadow: 5px 10px 20px black;
+}

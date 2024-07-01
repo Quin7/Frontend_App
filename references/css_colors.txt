@@ -1,0 +1,8 @@
+CSS Colors:
+    - Colors Property is used to define text-color.
+    Keyword - "color"
+    - 4 methods
+        * By pre-defined color name
+        * RGB() Palletes - RGB(Red,Green,Blue)
+        * Hex Code - #abcdef
+        * HSL() - HSL(Hue, Saturation, Lightness)
